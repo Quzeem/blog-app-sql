@@ -1,0 +1,30 @@
+.ui.fixed.menu {
+  height: 4em;
+}
+
+nav h1.header {
+  font-size: 1.5em;
+}
+
+nav a.item {
+  font-size: 1.1em;
+}
+.main.container {
+  margin-top: 7.0em;
+}
+
+#delete {
+  display: inline;
+}
+
+#show img {
+  margin: 1.5em auto;
+}
+#show time {
+  font-weight: bold;
+}
+
+#show .description p {
+  margin: 1em 0;
+  text-align: justify;
+}
